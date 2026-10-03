@@ -1,0 +1,17 @@
+name: swee
+channels:
+  - conda-forge
+ 
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - rasterstats
+  - rioxarray
+  - folium
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+

@@ -1,0 +1,10 @@
+# Raw data and downloads: large files, available from the official sources
+data_raw/
+zip/
+
+# Jupyter and Python temporary files
+.ipynb_checkpoints/
+__pycache__/
+
+# Experimental notebook (keep it local)
+notebook/Sweeden_project.ipynb
